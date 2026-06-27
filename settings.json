@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": indiansmp-xe2N.aternos.me,
+    "ip": "indiansmp-xe2N.aternos.me",
     "port": 39805,
     "version": "",
     "try-creative": false
